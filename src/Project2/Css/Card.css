@@ -1,0 +1,30 @@
+.cardd
+{
+  /* position: absolute; */
+ border: 1px solid gainsboro;
+      width:100%;
+    min-height: 500px;
+    margin-top: 7%;
+    margin-bottom: 2%;
+    padding: 7px;
+    /* top: -8px; */
+background-color: white;
+    /* color:   rgb(241,241,241); */
+    /* text-align: center; */
+  }
+  .cardForm{
+    background-color: white;
+    width: 100%;
+    padding: 15px;
+    margin-top: 5%;
+    min-height: 370px;
+    max-height: 770px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+  }
+  a{text-decoration: none;
+    /* color: black; */
+}
+/* .nameClass a{
+  color:black
+} */
